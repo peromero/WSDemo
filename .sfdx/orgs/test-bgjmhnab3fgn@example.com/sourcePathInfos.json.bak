@@ -1,0 +1,231 @@
+[
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528211784142,
+            "changeTime": 1528211784142,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528211784142,
+            "changeTime": 1528211784142,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1528212330143,
+            "changeTime": 1528212330143,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1528211784142,
+            "changeTime": 1528211784142,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1528212042906,
+            "changeTime": 1528212042906,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects/Thing__c/Thing__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects/Thing__c/Thing__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2108,
+            "modifiedTime": 1528212330131,
+            "changeTime": 1528212330131,
+            "contentHash": "9118e6c03b60fc64a89c5d846d99934c27ea8913"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/layouts/Thing__c-Thing Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/layouts/Thing__c-Thing Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1528212330140,
+            "changeTime": 1528212330140,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/tabs/Thing__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/tabs/Thing__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 231,
+            "modifiedTime": 1528212330141,
+            "changeTime": 1528212330141,
+            "contentHash": "c87075ad8e080098d6419a83c47058bb1b28dfcd"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4875,
+            "modifiedTime": 1528212330146,
+            "changeTime": 1528212330146,
+            "contentHash": "29cebd76aeeb2c67c034802d126c8780b8fbc557"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4537,
+            "modifiedTime": 1528212330152,
+            "changeTime": 1528212330152,
+            "contentHash": "5faec334ccb1c84f39eb6114ea356e49afdd86bd"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4537,
+            "modifiedTime": 1528212330157,
+            "changeTime": 1528212330157,
+            "contentHash": "5faec334ccb1c84f39eb6114ea356e49afdd86bd"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17924,
+            "modifiedTime": 1528212330169,
+            "changeTime": 1528212330169,
+            "contentHash": "da53f3dc8fa6bab270cd258da4ffc3c56586cb27"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects/Thing__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects/Thing__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528212330131,
+            "changeTime": 1528212330131,
+            "contentHash": "2c30aca9c1e4c6cb99e1f5c765e9364ba5586b0e"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528212330130,
+            "changeTime": 1528212330130,
+            "contentHash": "07cd8a33286c0d5e6bab68e39320ee1c9e04218e"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528212330140,
+            "changeTime": 1528212330140,
+            "contentHash": "ef24fc1ef161b880e3a25f77b0ab90b5c24b76cd"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528212330141,
+            "changeTime": 1528212330141,
+            "contentHash": "39486f4b83d8feed1604e09444d6a4e913dddf7e"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/060518/WSDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1528212330169,
+            "changeTime": 1528212330169,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ]
+]
